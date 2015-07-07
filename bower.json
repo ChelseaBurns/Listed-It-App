@@ -1,0 +1,17 @@
+{
+  "name": "list-it-app-demo",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ChelseaBurns/list-it-app-demo",
+  "authors": [
+    "ChelseaBurns <co.designux@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

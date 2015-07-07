@@ -1,0 +1,30 @@
+{
+  "name": "list-it-app-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChelseaBurns/list-it-app-demo.git"
+  },
+  "author": "Chelsea Burns <co.designux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChelseaBurns/list-it-app-demo/issues"
+  },
+  "homepage": "https://github.com/ChelseaBurns/list-it-app-demo#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-babel": "^5.0.1",
+    "grunt-bower-concat": "^0.5.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-connect": "^0.10.1",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^3.2.0"
+  }
+}
